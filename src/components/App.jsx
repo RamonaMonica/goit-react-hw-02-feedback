@@ -3,7 +3,7 @@ import Statistics from './Statistics';
 import FeedbackSection from './FeedbackSection';
 import Section from './Section.jsx';
 import Notification from './Notification';
-import styles from './App.css';
+import styles from './Section.module.css';
 
 const App = () => {
   const [state, setState] = useState({
